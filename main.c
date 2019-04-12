@@ -15,3 +15,6 @@ void main(){
 	sub3();
 	return 0;
 }
+void sub3(){
+	puts("00");
+}
